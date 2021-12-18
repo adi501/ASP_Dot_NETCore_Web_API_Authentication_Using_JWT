@@ -1,4 +1,4 @@
-# ASP_Dot_NETCore_Web_API_Authentication_Using_JWT
+# ASP.NET Core WebAPI Authentication Using JWT
 Asp.net core web API with JWT Authentication
 
 How to Execute Web API in post man:
